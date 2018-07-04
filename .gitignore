@@ -1,3 +1,18 @@
+
+# about this project
+.vscode
+build/
+debug/
+
+DoNotUpload/
+
+__Previews/
+History/
+Project Logs for Atmega16-platform/
+*.PrjPCBStructure
+
+
+
 # Prerequisites
 *.d
 
