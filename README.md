@@ -1,1 +1,2 @@
-# D001-flowmeter
+# D001-flowmeter  
+芯片 = PIC24FJ64GA306  
